@@ -38,7 +38,21 @@ button
     box-sizing: border-box;
     border-radius: 15px;
 }
+.btn
+{
+    font-size: 5vh;
+    font-family: "Kanit", sans-serif;
+    padding: 1vh 2vw;
+    margin: 4px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    background-color: white;
+}
 button:hover
+{
+    background-color:#7E7C7B;
+}
+.btn:hover
 {
     background-color:#7E7C7B;
 }
